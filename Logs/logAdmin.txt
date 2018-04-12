@@ -1,0 +1,4 @@
+El creador...
+Agrego una clase llamada A
+Agrego una interface llamada B
+Agreago una asosciacion doble llamada C

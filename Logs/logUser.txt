@@ -1,0 +1,5 @@
+El Jugador...
+Inicio una nueva partida
+Agrego una clase llamada a
+Agrego una clase llamada b
+Perdio
